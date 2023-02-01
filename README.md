@@ -10,11 +10,9 @@ It is intended to write the main logic in Python with a hosted operation in Azur
 
 Download links:
 
-SSH clone URL: ssh://git@git.jetbrains.space/axxis/project-repository-hosting/DiscordBot-LeagueOfLegends.git
-
+Github Mirror URL: https://github.com/Axxrael/DiscordBot-LeagueOfLegends
+Github Mirror HTTPS Clone URL: https://github.com/Axxrael/DiscordBot-LeagueOfLegends.git
 HTTPS clone URL: https://git.jetbrains.space/axxis/project-repository-hosting/DiscordBot-LeagueOfLegends.git
-
-
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
